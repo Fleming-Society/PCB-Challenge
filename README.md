@@ -4,7 +4,7 @@ UCL, KCL and Oxford are proud to present the 2026 PCB Challenge. Many thanks to 
 
 If you have any questions please email zceepvb@ucl.ac.uk
 
-All files are meant for KiCAD v10.0, if you have not updated, you probably should it is a much better version than KiCAD v9.0 (includes dark mode).
+All files are meant for KiCAD v10.0, if you have not updated, you probably should. It is a much better version than KiCAD v9.0 (includes dark mode).
 
 ## Overview
 
