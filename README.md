@@ -64,6 +64,6 @@ The challenge schematic does include a high speed signal paths (a differential p
 - **2nd place:** £100
 - **3rd place:** £50
 
-- All participants who submit a valid entry will receive a certificate of participation, a 10$ coupon on orders above 30$ for PCBWay and a PCB ruler from PCBWay.
+- All participants who submit a valid entry will receive a certificate of participation, a 10$ coupon on orders above 30$ for PCBWay and a PCB ruler from PCBWay. To be classified as a participant you must actually complete the PCB, this meaning that all the connections have been connected with a trace. Auto trace does not count. 
 
 Expect the results to be announced within a week or two from the end date of the challenge. 
