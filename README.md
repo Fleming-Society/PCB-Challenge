@@ -1,6 +1,6 @@
-# UCL Fleming x KCL Tech x Oxford Engineering: 2026 PCB Challenge
+# UCL Fleming x KCL Tech x Oxford Engineering: 2026 PCB Challenge | Sponsored by PCBWay
 
-UCL, KCL and Oxford are proud to present the 2026 PCB Challenge.
+UCL, KCL and Oxford are proud to present the 2026 PCB Challenge. Many thanks to PCBway for sponsoring the prizes. 
 
 If you have any questions please email zceepvb@ucl.ac.uk
 
@@ -64,6 +64,6 @@ The challenge schematic does include a high speed signal paths (a differential p
 - **2nd place:** £100
 - **3rd place:** £50
 
-- All participants who submit a valid entry will receive a certificate of participation.
+- All participants who submit a valid entry will receive a certificate of participation, a 10$ coupon on orders above 30$ for PCBWay and a PCB ruler from PCBWay.
 
 Expect the results to be announced within a week or two from the end date of the challenge. 
