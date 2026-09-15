@@ -1,4 +1,8 @@
-# UCL Fleming Soc x KCL Tech: PCB Challenge
+# UCL Fleming Soc x KCL Tech x Oxford Engineering Society: PCB Challenge
+
+UCL, KCL and Oxford are proud to present the 2026 PCB Challenge.
+
+If you have any questions please emails zceepvb@ucl.ac.uk
 
 ## Overview
 
