@@ -50,7 +50,7 @@ From my own experience, no matter how much you may like designing PCBs, ultimate
 - A board with unresolved DRC errors is disqualified from the size based ranking regardless of its footprint area.
 
 ### Note on High-Speed & Power Rules
-The challenge schematic does not include high speed signal paths (e.g. differential pairs requiring a continuous reference/return plane) or significant power delivery requirements (e.g. wide power traces, stitching vias). As such, no specific high speed routing or power plane rules are imposed in this iteration. Should a future version of the challenge include such elements, this rule set will be updated accordingly.
+The challenge schematic does include a high speed signal paths (a differential pair requiring a continuous reference plane). It does not however have a significant power delivery requirement (e.g. wide power traces, stitching vias). As such, no specific power plane rules are imposed in this iteration. 
 
 ## Judging Criteria
 
