@@ -1,4 +1,4 @@
-# UCL Fleming Soc x KCL Tech x Oxford Engineering Society: PCB Challenge
+# UCL Fleming x KCL Tech x Oxford Engineering: 2026 PCB Challenge
 
 UCL, KCL and Oxford are proud to present the 2026 PCB Challenge.
 
