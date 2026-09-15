@@ -4,6 +4,8 @@ UCL, KCL and Oxford are proud to present the 2026 PCB Challenge. Many thanks to 
 
 If you have any questions please email zceepvb@ucl.ac.uk
 
+All files are meant for KiCAD v10.0, if you have not updated, you probably should it is a much better version than KiCAD v9.0 (includes dark mode).
+
 ## Overview
 
 This challenge invites participants to implement the given schematic as a fully wired PCB in the smallest possible size. As an added challenge the purpose of the PCB itself is left ambiguous. You are provided a schematic with all component values and connections intact, and a footprint associated with each schematic symbol. The event runs fully online, and all the necessary information can be found in this GitHub. 
