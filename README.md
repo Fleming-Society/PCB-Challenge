@@ -2,7 +2,7 @@
 
 UCL, KCL and Oxford are proud to present the 2026 PCB Challenge.
 
-If you have any questions please emails zceepvb@ucl.ac.uk
+If you have any questions please email zceepvb@ucl.ac.uk
 
 ## Overview
 
