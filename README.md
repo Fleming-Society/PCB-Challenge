@@ -2,9 +2,9 @@
 
 UCL, KCL and Oxford are proud to present the 2026 PCB Challenge. Many thanks to PCBway for sponsoring the prizes. 
 
-If you have any questions please email zceepvb@ucl.ac.uk
+If you have any questions please email zceepvb@ucl.ac.uk. Please keep in mind you cannot make a submission/be eligible for the prizes if you do not attend any of the universities organising this event. Within the 7 day period this event is being hosted, any university Engineering society is free to reach out to collaborate at this email address. 
 
-All files are meant for KiCAD v10.0, if you have not updated, you probably should. It is a much better version than KiCAD v9.0 (includes dark mode).
+All files are meant for KiCAD v10.0, if you have not updated, you probably should. It is a much better version than KiCAD v9.0 (includes dark mode). 
 
 ## Overview
 
@@ -18,6 +18,8 @@ From my own experience, no matter how much you may like designing PCBs, ultimate
 
 1. **Logic Deduction**: deduce the digital logic function implemented by the provided schematic, purely from the schematic itself (no functional description is given). Deducing this will give you bonus points.
 2. **PCB Layout**: design a fully wired, single board PCB implementation of that logic, optimised for the smallest possible board area, within the design constraints below.
+
+This challenge will be running for 7 days, **until midnight of October the 19th.**
 
 ## Design Constraints
 
